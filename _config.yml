@@ -1,0 +1,57 @@
+# ---------------------------------------------------------------------------
+# Site settings. Edit these, push, and GitHub Pages rebuilds the site.
+# ---------------------------------------------------------------------------
+
+title: Cagatay Turkay
+description: >-
+  Professor of Data Visualisation at the Centre for Interdisciplinary
+  Methodologies, University of Warwick. Visual analytics, human-AI
+  interaction and visual data science.
+
+# If the repo is named <username>.github.io, leave baseurl empty.
+# If it is any other name (e.g. "website"), set baseurl: "/website".
+url: "https://cagatayTurkay.github.io"
+baseurl: ""
+
+author:
+  name: Cagatay Turkay
+  role: Professor of Data Visualisation
+  affiliation: Centre for Interdisciplinary Methodologies, University of Warwick
+  email: Cagatay.Turkay@warwick.ac.uk
+  photo: /assets/img/ct-profile-sqr.jpeg        # replace with your own photo
+  address:
+    - Room B0.08, Centre for Interdisciplinary Methodologies
+    - University of Warwick
+    - Coventry CV4 7AL, UK
+
+# Shown as icon-less text links under your name. Delete any you don't want.
+links:
+  - name: Google Scholar
+    url: https://scholar.google.co.uk/citations?user=ho0I_1kAAAAJ&hl=en
+  - name: DBLP
+    url: https://dblp.org/pers/hd/t/Turkay:Cagatay
+  - name: Warwick profile
+    url: https://warwick.ac.uk/fac/cross_fac/cim/people/cagatay-turkay/
+  # - name: Slides
+  #   url: https://www.slideshare.net/cagatayturkay
+  - name: ORCID
+    url: https://orcid.org/0000-0001-6788-251X
+  - name: GitHub
+    url: https://github.com/cagatayTurkay
+  # - name: Bluesky
+  #   url: https://bsky.app/profile/HANDLE
+
+# Publications page: names to highlight in author lists (surname match)
+publications:
+  bib: /assets/papers.bib
+  highlight: ["Turkay"]
+
+markdown: kramdown
+permalink: pretty
+
+exclude:
+  - README.md
+  - docs/
+  - Gemfile
+  - Gemfile.lock
+  - vendor/

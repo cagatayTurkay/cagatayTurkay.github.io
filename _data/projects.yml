@@ -1,0 +1,71 @@
+# Projects. Set `current: true` for ongoing ones.
+# Fields: title, url (optional), period, funder, role, summary (optional), current
+
+- title: EPSRC CDT in Diverse Data Visualisation (DIVERSE CDT)
+  url: https://diverse-cdt.ac.uk/
+  period: Jul 2024 – Oct 2030
+  funder: EPSRC, ~£10m total (~£2m Warwick)
+  role: Co-director, Warwick PI
+  current: true
+
+- title: "HAT MEPP 3: Widening access to modelling to support gHAT elimination"
+  url: https://warwick.ac.uk/fac/cross_fac/zeeman_institute/new_research/combatting_disease/hat/hatmepp/
+  period: Oct 2024 – Sep 2028
+  funder: Gates Foundation, ~£300k for CIM
+  role: Co-I (led by Prof Kat Rock, Zeeman Institute)
+  current: true
+
+- title: Visualising Contact Networks in Response to COVID-19
+  url: https://warwick.ac.uk/fac/cross_fac/cim/research/visualising-contact-networks/
+  period: Sep 2020 – Feb 2022
+  funder: UKRI, £174k for Warwick
+  role: Joint PI
+
+- title: "RAMP VIS: Making Visual Analytics an Integral Part of the Technological Infrastructure for Combating COVID-19"
+  url: https://sites.google.com/view/rampvis/
+  period: Feb 2021 – Jan 2022
+  funder: UKRI
+  role: Co-I
+
+- title: "DECIDE: Delivering Enhanced Biodiversity Information with Adaptive Citizen Science and Intelligent Digital Engagements"
+  url: https://www.ceh.ac.uk/our-science/projects/decide
+  period: Aug 2020 – Jul 2022
+  funder: NERC, £96k for Warwick
+  role: Co-I
+
+- title: More-than-human data interactions in the smart city
+  period: Mar 2020 – Jul 2020
+  funder: EPSRC HDI Network+, £62k
+  role: Co-I
+
+- title: Investigating Interactive Visualisation Techniques for AI Explainability
+  period: Jan 2019 – Jun 2019
+  funder: City, University of London pump-priming
+  role: Co-I (with R. Henkin)
+
+- title: "NLViS: Natural Language Interaction for Visual Data Analysis"
+  url: https://www.gicentre.net/nlvis
+  period: Dec 2017 – Mar 2019
+  funder: EPSRC First Grant, £100k
+  role: PI
+
+- title: Agent-based modelling and visualisation of the causes and consequences of knock-on delays
+  period: Apr 2018 – Mar 2019
+  funder: RSSB, £80k
+  role: Co-I
+
+- title: "DiSIEM: Diversity-enhancements for Security Information and Event Management"
+  url: http://disiem-project.eu/
+  period: Sep 2016 – Aug 2019
+  funder: EU H2020, €4m total (€910k City)
+  role: City PI (with I. Gashi)
+
+- title: Interactive Visualization of Large Email Data
+  period: Jan 2016 – Dec 2018
+  funder: Industry (Redsift Inc.), £86k
+  role: PI
+
+- title: FareViz
+  period: May 2014 – Nov 2015
+  funder: Technology Strategy Board, £472k total
+  role: Researcher Co-I

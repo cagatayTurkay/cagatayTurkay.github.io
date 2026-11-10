@@ -1,0 +1,11 @@
+# Top navigation. Order here = order on the page.
+- title: About
+  url: /
+- title: Research
+  url: /research/
+- title: Publications
+  url: /publications/
+- title: People
+  url: /people/
+- title: Teaching
+  url: /teaching/

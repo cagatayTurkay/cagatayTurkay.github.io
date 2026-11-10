@@ -1,0 +1,27 @@
+# Your group. All entries below are PLACEHOLDERS — replace with real people.
+# Fields: name, role, topic, url (optional), photo (optional, e.g. /assets/img/people/jane.jpg),
+#         years (optional), now (alumni: where they went)
+
+current:
+  - name: Student Name
+    role: PhD student
+    topic: Thesis topic in a few words
+    years: 2025–
+    url:
+  - name: Student Name
+    role: PhD student (DIVERSE CDT)
+    topic: Thesis topic in a few words
+    years: 2025–
+
+postdocs:
+  - name: Researcher Name
+    role: Research Fellow
+    topic: Project / area
+    years: 2024–
+
+alumni:
+  - name: Former Student
+    role: PhD
+    years: 2019–2023
+    topic: Thesis title
+    now: Lecturer at …

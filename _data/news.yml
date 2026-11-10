@@ -1,0 +1,17 @@
+# Newest first. The home page shows the first 6; all appear on /news/.
+# date: YYYY-MM-DD   text: Markdown allowed (links, *italics*)
+
+- date: 2026-10-02
+  text: "Our TVCG paper **LEVA** has been named Runner-up for the 2025 Best Paper Award for the Visualization and Visual Analytics area of IEEE TVCG ([news item](https://warwick.ac.uk/fac/cross_fac/cim/news-and-events/news-archive/?newsItem=8ac672c6a0f6f6e801a0fd304f194469))."
+
+- date: 2025-01-15
+  text: "Fully-funded PhD scholarships in data visualisation through the [DIVERSE CDT](https://diverse-cdt.ac.uk/) — rolling deadlines. [Details](https://warwick.ac.uk/fac/cross_fac/cim/apply-to-study/diverse-cdt/)."
+
+- date: 2024-07-01
+  text: "The EPSRC Centre for Doctoral Training in Diverse Data Visualisation (DIVERSE CDT) starts, with Warwick as one of three partners."
+
+- date: 2021-01-01
+  text: "Appointed Turing Fellow at the Alan Turing Institute (2021–2024)."
+
+- date: 2019-06-01
+  text: "Received the EuroVis Young Researcher Award and named a Eurographics Junior Fellow."
