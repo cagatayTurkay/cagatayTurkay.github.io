@@ -28,7 +28,7 @@ I received the EuroVis Young Researcher Award and was named a Eurographics Junio
 
 
 <aside class="callout">
-  <strong>PhD opportunities.</strong> Fully-funded data visualisation PhD scholarships are available through the DIVERSE CDT. <a href="{{ '/people/#supervision' | relative_url }}">See topics I supervise</a>.
+  <strong>PhD opportunities.</strong> Fully-funded data visualisation PhD scholarships are available through the DIVERSE CDT and Warwick's funding opportunities. <a href="{{ '/people/#supervision' | relative_url }}">See topics I supervise</a>.
 </aside>
 
 ## News
