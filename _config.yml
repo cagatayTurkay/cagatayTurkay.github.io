@@ -4,7 +4,7 @@
 
 title: Cagatay Turkay
 description: >-
-  Professor of Data Visualisation at the Centre for Interdisciplinary
+  Professor at the Centre for Interdisciplinary
   Methodologies, University of Warwick. Visual analytics, human-AI
   interaction and visual data science.
 
@@ -15,7 +15,7 @@ baseurl: ""
 
 author:
   name: Cagatay Turkay
-  role: Professor of Data Visualisation
+  role: Professor 
   affiliation: Centre for Interdisciplinary Methodologies, University of Warwick
   email: Cagatay.Turkay@warwick.ac.uk
   photo: /assets/img/ct-profile-sqr.jpeg        # replace with your own photo
